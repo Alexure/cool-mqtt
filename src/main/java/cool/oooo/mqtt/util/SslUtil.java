@@ -19,9 +19,6 @@ import java.security.cert.X509Certificate;
 
 /**
  * SSL工具
- *
- * @author LiuYang
- * @date 2022/12/3 15:29
  */
 @Slf4j
 public class SslUtil {

@@ -12,9 +12,6 @@ import javax.annotation.Resource;
 
 /**
  * mqtt消息发布
- *
- * @author LiuYang
- * @date 2022/11/15 10:32
  */
 @Component
 @Slf4j

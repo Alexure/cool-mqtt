@@ -1,4 +1,4 @@
-# mqtt-listener
+# cool-mqtt
 
 #### 介绍
 提供一种通过注解的方式来订阅mqtt消息
@@ -344,12 +344,4 @@ public @interface MqttSubscriptionOnMethod {
 }
 ```
 
-#### 3. 工程打包
-把mqtt-listener工程带来拉倒本地，install到本地调试，如果有maven私服，可以deploy到私服中，然后在业务代码中引入依赖：
-```
-<dependency>
-  <groupId>com.leador.scd</groupId>
-  <artifactId>mqtt-listener</artifactId>
-  <version>1.0.0</version>
-</dependency>
-```
+

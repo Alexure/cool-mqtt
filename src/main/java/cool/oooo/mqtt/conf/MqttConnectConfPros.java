@@ -4,10 +4,7 @@ import lombok.Data;
 import org.springframework.boot.context.properties.ConfigurationProperties;
 import org.springframework.context.annotation.Configuration;
 
-/**
- * @author LiuYang
- * @date 2022/11/7 19:12
- */
+
 @Configuration
 @Data
 @ConfigurationProperties(prefix = "mqtt")

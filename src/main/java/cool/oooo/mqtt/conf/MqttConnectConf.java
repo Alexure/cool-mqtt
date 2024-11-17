@@ -1,6 +1,5 @@
 package cool.oooo.mqtt.conf;
 
-import com.leador.scd.mqtt.*;
 import cool.oooo.mqtt.mqtt.*;
 import cool.oooo.mqtt.util.SslUtil;
 import lombok.extern.slf4j.Slf4j;
@@ -17,10 +16,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Map;
 
-/**
- * @author LiuYang
- * @date 2022/11/7 19:19
- */
+
 @Configuration
 @Slf4j
 public class MqttConnectConf {

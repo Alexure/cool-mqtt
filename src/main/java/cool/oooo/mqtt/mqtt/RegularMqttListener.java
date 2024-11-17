@@ -2,10 +2,6 @@ package cool.oooo.mqtt.mqtt;
 
 import org.eclipse.paho.client.mqttv3.MqttMessage;
 
-/**
- * @author LiuYang
- * @date 2022/11/29 18:24
- */
 public interface RegularMqttListener {
 
     /**

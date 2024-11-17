@@ -14,10 +14,7 @@ import java.lang.reflect.Method;
 import java.util.Map;
 import java.util.Objects;
 
-/**
- * @author LiuYang
- * @date 2022/11/7 19:25
- */
+
 @Configuration
 @Slf4j
 public class MqttCallBackImpl implements MqttCallback {
